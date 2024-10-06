@@ -1,0 +1,12 @@
+.background{
+    background-image: url(green-color-background-gradient-modern-design-abstract_343694-2143.jpg);
+    height: 100px;
+    background: repeat 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
